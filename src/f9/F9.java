@@ -19,6 +19,7 @@ public class F9 {
         System.out.println("Hello - Main");
         System.out.println("Hi - Second");
         System.out.println("Only Branch");
+        System.out.println("Only Branch");
     }
     
 }
